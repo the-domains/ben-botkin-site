@@ -1,0 +1,14 @@
+layout_spectrum: 0.3073361157439649
+typography_spectrum: 0.18544405000284314
+color:
+  brandStrength: 0.5689069274812937
+  lightness: 0.19960799114778638
+  saturation: 0.9484726137015969
+  rhythmicContrast: 0.9882961581461132
+  brandColors:
+    - '#DCE3E9'
+    - '#BDC6CF'
+    - '#1B2326'
+    - '#7C8991'
+    - '#55686C'
+name: Ben Botkin Site
