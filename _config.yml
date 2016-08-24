@@ -12,5 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.3073361157439649
 name: Ben Botkin Site
+navigation:
+  - name: Music
+    url: 'https://soundcloud.com/benbotkin/sets/bb-portfolio'
+    type: external
 title: Benjamin Botkin
 description: Composer
