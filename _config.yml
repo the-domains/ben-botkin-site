@@ -1,4 +1,3 @@
-layout_spectrum: 0.3073361157439649
 typography_spectrum: 0.18544405000284314
 color:
   brandStrength: 0.5689069274812937
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.3073361157439649
 name: Ben Botkin Site
+description: Composer
