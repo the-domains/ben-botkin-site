@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ben Botkin Site]]></title>
-        <description><![CDATA[Ben Botkin Site]]></description>
+        <title><![CDATA[Benjamin Botkin]]></title>
+        <description><![CDATA[Benjamin Botkin]]></description>
         <link>https://thegrid.ai/ben-botkin-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 21:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 18:01:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ben-botkin-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Colorado's Woody Creek Distillers]]></title>
@@ -18,13 +18,6 @@
             <description><![CDATA[<article><h1>Paint With Fire Using This Virtual Reality App</h1><p>Vocativ uses intelligent technology, smart journalists and the wisdom of the crowd to find story leads and angles no other news organization can.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1fd2f9f55fd33825a34fcf74867bcde35fb76de.jpg"></article>]]></description>
             <link>http://www.vocativ.com/316058/paint-with-fire-using-this-virtual-reality-app/</link>
             <guid isPermaLink="false">7a62d45a-ab71-4d5e-a715-ccb8ea214898</guid>
-            <pubDate>Wed, 24 Aug 2016 21:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There & Back Again: A Cross-Country Epic]]></title>
-            <description><![CDATA[<article><h1>There & Back Again: A Cross-Country Epic</h1><p>It's usually late February or early March when I load up my vehicle with tools of photographic wonder to embark on a journey from Asheville, NC into the unknown and across the U.S. Destination: Las Vegas. WPPI to be exact, where I have been an educator there since 2002.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8b9656e1adc0b7119ac419bcd54748f5ecfdf92.jpg"></article>]]></description>
-            <link>https://alphauniverse.com/stories/there-and-back-again--a-cross-country-epic/</link>
-            <guid isPermaLink="false">3f5e931b-1ba5-46a6-941a-6820315629c9</guid>
             <pubDate>Wed, 24 Aug 2016 21:02:10 GMT</pubDate>
         </item>
     </channel>
